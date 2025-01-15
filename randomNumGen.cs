@@ -3,8 +3,7 @@
 // January 14, 2025
 
 /* Requirements
-Question 3
-5 Points
+
 Write a code which fulfills below requirements:
 1)   A method which returns a random integer between 1 to 10000 using Func. This method should return the number. Use Lamba expressions.
 2)   A method which could take in a Func<int> and return a string which outputs "The Generates Number is: {number"}
